@@ -1,0 +1,37 @@
+# These dictionaries are loaded into a database.  Missing columns are OK.  The only required key is "description" so that
+#     we communicate what a given entry is intended for.
+[[package]]
+description="Python library for working with graphviz"
+conda="python-graphviz"
+pypi="graphviz"
+debian="python-pygraphviz"
+
+
+
+# packages from one ecosystem may map to many packages in another.  One entry should be present for each possible match
+#  For example, here graphviz in conda is both a dev package (headers + link libraries) and a runtime, while Debian splits
+#  out the dev package and the runtime.  Additionally, Debian is carrying an old name for the devel package, so we should
+#  track that, too.
+[[package]]
+description="Development headers and libraries for graphviz"
+conda="graphviz"
+debian="libgraphviz-dev"   # the current dev package
+
+[[package]]
+description="Runtime libraries and executables for graphviz"
+conda="graphviz"
+debian="graphviz"      # the runtime and executables
+
+[[package]]
+description="Development headers and libraries for graphviz - alternate name for debian"
+conda="graphviz"
+debian="graphviz-dev"  # the old name (transitional package)
+
+
+
+# Instead of duplicate entries for transitional or renamed packages, we could collect lists
+#   These could be extended into individual columns, or perhaps be one table per key that is then joined somehow
+[[package]]
+description="Development headers and libraries for graphviz"
+conda="graphviz"
+debian=["libgraphviz-dev", "graphviz-dev"]

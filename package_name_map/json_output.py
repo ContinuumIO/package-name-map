@@ -8,6 +8,8 @@ Base = _automap_base()
 
 
 def _prepare_engine_and_session(db_uri):
+    if _os.path.isfile(db_uri) or ":" not in db_uri:
+        db_uri = "sqlite:///" + db_uri
     engine = _create_engine(db_uri)
     # reflect the tables (don't manually redefine scheme)
     if "description" not in Base.classes:

@@ -75,7 +75,7 @@ def create_db_from_toml(toml_filename, db_uri):
 
 
 def create_db_from_dict(loaded_records, db_uri='package_name_map.db'):
-    if os.path.isfile(db_uri):
+    if os.path.isfile(db_uri) or ":" not in db_uri:
         db_uri = "sqlite:///" + db_uri
     engine = create_engine(db_uri)
     columns = _get_keys(loaded_records)

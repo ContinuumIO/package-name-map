@@ -1,0 +1,8 @@
+---
+exclude_paths:
+  - 'package_name_map/_version.py'
+  - 'tests/**/*'
+  - 'tests/*'
+  - 'benchmarks/**/*'
+  - 'setup.py'
+  - 'versioneer.py'

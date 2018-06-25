@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    package_name_map/__main__.py
+    package_name_map/_version.py
+    versioneer.py
+    tests/*

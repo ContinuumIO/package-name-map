@@ -2,9 +2,8 @@
 package-name-map
 ===============================
 
-
-.. image:: https://circleci.com/gh/continuumIO/package-name-map.svg?style=svg
-    :target: https://circleci.com/gh/continuumIO/package-name-map
+.. image:: https://circleci.com/gh/ContinuumIO/package-name-map.svg?style=svg
+    :target: https://circleci.com/gh/ContinuumIO/package-name-map
 .. image:: https://codecov.io/gh/continuumIO/package-name-map/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/continuumIO/package-name-map
 

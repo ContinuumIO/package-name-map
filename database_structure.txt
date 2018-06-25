@@ -1,7 +1,0 @@
-- One table per unique key in any given dict.  Unique key represents ecosystem or package index identifier
-- required columns:
-  - package name in that ecosystem
-  - description
-- other columns:
-  - map to foreign key(s) in other ecosystem tables (many to many)
-- In each table, one row per unique name in a given ecosystem

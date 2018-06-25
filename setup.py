@@ -4,7 +4,8 @@ import versioneer
 requirements = [
     # package requirements go here
     "sqlalchemy",
-    "six"
+    "six",
+    "toml"
 ]
 
 setup(

@@ -1,0 +1,2870 @@
+[[package]]
+description = "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py."
+conda = "absl-py"
+pypi = "absl-py"
+
+[[package]]
+description = "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples,"
+conda = "aenum"
+pypi = "aenum"
+
+[[package]]
+description = "Matrices describing affine transformation of the plane."
+conda = "affine"
+pypi = "affine"
+
+[[package]]
+description = "agate-dbf adds read support for dbf files to agate."
+conda = "agate-dbf"
+pypi = "agate-dbf"
+
+[[package]]
+description = "agate-excel adds read support for Excel files (xls and xlsx) to agate."
+conda = "agate-excel"
+pypi = "agate-excel"
+
+[[package]]
+description = "A data analysis library that is optimized for humans instead of machines."
+conda = "agate"
+pypi = "agate"
+
+[[package]]
+description = "agate-sql adds SQL read/write support to agate."
+conda = "agate-sql"
+pypi = "agate-sql"
+
+[[package]]
+description = "Async client for aws services using botocore and aiohttp"
+conda = "aiobotocore"
+pypi = "aiobotocore"
+
+[[package]]
+description = "File support for asyncio"
+conda = "aiofiles"
+pypi = "aiofiles"
+
+[[package]]
+description = "Async http client/server framework (asyncio)"
+conda = "aiohttp"
+pypi = "aiohttp"
+
+[[package]]
+description = "Configurable, Python 2+3 compatible Sphinx theme."
+conda = "alabaster"
+pypi = "alabaster"
+
+[[package]]
+description = "A database migration tool for SQLAlchemy."
+conda = "alembic"
+pypi = "alembic"
+
+[[package]]
+description = "Tool for encapsulating, running, and reproducing data science projects"
+conda = "anaconda-project"
+pypi = "anaconda-project"
+
+[[package]]
+description = "Convert text with ANSI color codes to HTML or to LaTeX."
+conda = "ansi2html"
+pypi = "ansi2html"
+
+[[package]]
+description = "Wraps the best available JSON implementation available in a common interface"
+conda = "anyjson"
+pypi = "anyjson"
+
+[[package]]
+description = "PyQt4/PyQt5 compatibility layer."
+conda = "anyqt"
+pypi = "AnyQt"
+
+[[package]]
+description = "With apipkg you can control the exported namespace of a python package and greatly reduce the number of imports for your users."
+conda = "apipkg"
+pypi = "apipkg"
+
+[[package]]
+description = "A small Python module for determining appropriate platform-specific dirs."
+conda = "appdirs"
+pypi = "appdirs"
+
+[[package]]
+description = "application tools"
+conda = "apptools"
+pypi = "apptools"
+
+[[package]]
+description = "Bash tab completion for argparse"
+conda = "argcomplete"
+pypi = "argcomplete"
+
+[[package]]
+description = "The secure Argon2 password hashing algorithm."
+conda = "argon2_cffi"
+pypi = "argon2_cffi"
+
+[[package]]
+description = "Better dates & times for Python."
+conda = "arrow"
+pypi = "arrow"
+
+[[package]]
+description = "Python ASN.1 library with a focus on performance and a pythonic API"
+conda = "asn1crypto"
+pypi = "asn1crypto"
+
+[[package]]
+description = "Read, rewrite, and write Python ASTs nicely"
+conda = "astor"
+pypi = "astor"
+
+[[package]]
+description = "A abstract syntax tree for Python with inference support."
+conda = "astroid"
+pypi = "astroid"
+
+[[package]]
+description = "A fast PostgreSQL Database Client Library for Python/asyncio."
+conda = "asyncpgsa"
+pypi = "asyncpgsa"
+
+[[package]]
+description = "Timeout context manager for asyncio programs"
+conda = "async-timeout"
+pypi = "async-timeout"
+
+[[package]]
+description = "Atomic file writes."
+conda = "atomicwrites"
+pypi = "atomicwrites"
+
+[[package]]
+description = "attrs is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods)."
+conda = "attrs"
+pypi = "attrs"
+
+[[package]]
+description = "self-service finite-state machines for the programmer on the go"
+conda = "automat"
+pypi = "Automat"
+
+[[package]]
+description = "An Auto-Visualization library for pandas dataframes"
+conda = "autovizwidget"
+pypi = "autovizwidget"
+
+[[package]]
+description = "Microsoft Azure Client Libraries for Python"
+conda = "azure"
+pypi = "azure"
+
+[[package]]
+description = "Utilities to internationalize and localize Python applications"
+conda = "babel"
+pypi = "Babel"
+
+[[package]]
+description = "Specifications for callback functions passed in to an API"
+conda = "backcall"
+pypi = "backcall"
+
+[[package]]
+description = "A backport of recent additions to the `collections.abc` module."
+conda = "backports_abc"
+pypi = "backports_abc"
+
+[[package]]
+description = "Backport of functools.lru_cache from Python 3.3 as published at ActiveState."
+conda = "backports.functools_lru_cache"
+pypi = "backports.functools_lru_cache"
+
+[[package]]
+description = "Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files."
+conda = "backports.lzma"
+pypi = "backports.lzma"
+
+[[package]]
+description = "A backport of the get_terminal_size function from Python 3.3's shutil."
+conda = "backports.shutil_get_terminal_size"
+pypi = "backports.shutil_get_terminal_size"
+
+[[package]]
+description = "Backport of shutil.which from Python 3.3"
+conda = "backports.shutil_which"
+pypi = "backports.shutil_which"
+
+[[package]]
+description = "Backport of new features in Python's weakref module"
+conda = "backports.weakref"
+pypi = "backports.weakref"
+
+[[package]]
+description = "PyPI mirror client according to PEP 381"
+conda = "bandersnatch"
+pypi = "bandersnatch"
+
+[[package]]
+description = "A columnar data container that can be compressed"
+conda = "bcolz"
+pypi = "bcolz"
+
+[[package]]
+description = "modern password hashing for your software and your servers"
+conda = "bcrypt"
+pypi = "bcrypt"
+
+[[package]]
+description = "Python library designed for screen-scraping"
+conda = "beautifulsoup4"
+pypi = "beautifulsoup4"
+
+[[package]]
+description = "Collection of freely available tools for computational molecular biology"
+conda = "biopython"
+pypi = "biopython"
+
+[[package]]
+description = "efficient arrays of booleans -- C extension"
+conda = "bitarray"
+pypi = "bitarray"
+
+[[package]]
+description = "High level chart types built on top of Bokeh"
+conda = "bkcharts"
+pypi = "bkcharts"
+
+[[package]]
+description = "Easy, whitelist-based HTML-sanitizing tool"
+conda = "bleach"
+pypi = "bleach"
+
+[[package]]
+description = "Fast, simple object-to-object and broadcast signaling"
+conda = "blinker"
+pypi = "blinker"
+
+[[package]]
+description = "Statistical and novel interactive HTML plots for Python"
+conda = "bokeh"
+pypi = "bokeh"
+
+[[package]]
+description = "Amazon Web Services SDK for Python"
+conda = "boto3"
+pypi = "boto3"
+
+[[package]]
+description = "Low-level, data-driven core of boto 3."
+conda = "botocore"
+pypi = "botocore"
+
+[[package]]
+description = "Low-level, data-driven core of boto 3."
+conda = "botocore"
+pypi = "botocore"
+
+[[package]]
+description = "Low-level, data-driven core of boto 3."
+conda = "botocore"
+pypi = "botocore"
+
+[[package]]
+description = "Amazon Web Services Library"
+conda = "boto"
+pypi = "fe1db6a5ed53831b53b8a6695a8f134a58833cadb5f2740802bc3730ac15"
+
+[[package]]
+description = "Fast NumPy array functions written in Cython."
+conda = "bottleneck"
+pypi = "Bottleneck"
+
+[[package]]
+description = "scalable persistent object containers"
+conda = "btrees"
+pypi = "BTrees"
+
+[[package]]
+description = "Read and write bzip2-compressed files."
+conda = "bz2file"
+pypi = "bz2file"
+
+[[package]]
+description = "httplib2 caching algorithms for use with requests"
+conda = "cachecontrol"
+pypi = "CacheControl"
+
+[[package]]
+description = "A decorator for caching properties in classes."
+conda = "cached-property"
+pypi = "cached-property"
+
+[[package]]
+description = "Easily capture stdout/stderr of the current process and subprocesses."
+conda = "capturer"
+pypi = "capturer"
+
+[[package]]
+description = "Python package for providing Mozilla's CA Bundle."
+conda = "certifi"
+pypi = "certifi"
+
+[[package]]
+description = "Foreign Function Interface for Python calling C code."
+conda = "cffi"
+pypi = "cffi"
+
+[[package]]
+description = "Time-handling functionality from netcdf4-python"
+conda = "cftime"
+pypi = "cftime"
+
+[[package]]
+description = "Easy to use mocking, stubbing and spying framework."
+conda = "chai"
+pypi = "chai"
+
+[[package]]
+description = "A flexible framework of neural networks"
+conda = "chainer"
+pypi = "chainer"
+
+[[package]]
+description = "HTML/XML template engine for Python"
+conda = "chameleon"
+pypi = "Chameleon"
+
+[[package]]
+description = "Universal character encoding detector"
+conda = "chardet"
+pypi = "chardet"
+
+[[package]]
+description = "Highly-optimized, pure-python HTTP server"
+conda = "cheroot"
+pypi = "Cheroot"
+
+[[package]]
+description = "Object-Oriented HTTP framework"
+conda = "cherrypy"
+pypi = "CherryPy"
+
+[[package]]
+description = "A simple wrapper around optparse for powerful command line utilities."
+conda = "click"
+pypi = "click"
+
+[[package]]
+description = "An extension module for click to enable registering CLI commands via setuptools entry-points."
+conda = "click-plugins"
+pypi = "click-plugins"
+
+[[package]]
+description = "Click params for commmand line interfaces to GeoJSON."
+conda = "cligj"
+pypi = "cligj"
+
+[[package]]
+description = "Extended pickling support for Python objects"
+conda = "cloudpickle"
+pypi = "cloudpickle"
+
+[[package]]
+description = "A serialization, deserialization, and validation library"
+conda = "colander"
+pypi = "colander"
+
+[[package]]
+description = "Cross-platform colored terminal text."
+conda = "colorama"
+pypi = "colorama"
+
+[[package]]
+description = "Colored terminal output for Python's logging module"
+conda = "coloredlogs"
+pypi = "coloredlogs"
+
+[[package]]
+description = "Python color representations manipulation library (RGB, HSL, web, ...)"
+conda = "colour"
+pypi = "colour"
+
+[[package]]
+description = "Python parser for the CommonMark Markdown spec"
+conda = "commonmark"
+pypi = "CommonMark"
+
+[[package]]
+description = "replacement for argparse allowing options to be set via config files and/or env vars"
+conda = "configargparse"
+pypi = "ConfigArgParse"
+
+[[package]]
+description = "Config file reading, writing and validation."
+conda = "configobj"
+pypi = "configobj"
+
+[[package]]
+description = "This library brings the updated configparser from Python 3.5 to Python 2.6-3.5"
+conda = "configparser"
+pypi = "configparser"
+
+[[package]]
+description = "Symbolic constants in Python"
+conda = "constantly"
+pypi = "constantly"
+
+[[package]]
+description = "Backports and enhancements for the contextlib module"
+conda = "contextlib2"
+pypi = "contextlib2"
+
+[[package]]
+description = "build and document Web Services with Pyramid"
+conda = "cornice"
+pypi = "cornice"
+
+[[package]]
+description = "Code coverage measurement for Python"
+conda = "coverage"
+pypi = "coverage"
+
+[[package]]
+description = "Show coverage stats online via coveralls.io"
+conda = "coveralls"
+pypi = "coveralls"
+
+[[package]]
+description = "Provides cryptographic recipes and primitives to Python developers"
+conda = "cryptography"
+pypi = "cryptography"
+
+[[package]]
+description = "Test vectors for the cryptography package."
+conda = "cryptography-vectors"
+pypi = "cryptography_vectors"
+
+[[package]]
+description = "A suite of command-line tools for working with CSV, the king of tabular file formats."
+conda = "csvkit"
+pypi = "csvkit"
+
+[[package]]
+description = "Low-level library to perform the matrix building step in CVXPY"
+conda = "cvxcanon"
+pypi = "CVXcanon"
+
+[[package]]
+description = "Python interface to Oracle"
+conda = "cx_oracle"
+pypi = "cx_Oracle"
+
+[[package]]
+description = "Manage calls to calloc/free through Cython"
+conda = "cymem"
+pypi = "cymem"
+
+[[package]]
+description = "The Cython compiler for writing C extensions for the Python language"
+conda = "cython"
+pypi = "Cython"
+
+[[package]]
+description = "Cython implementation of Toolz. High performance functional utilities."
+conda = "cytoolz"
+pypi = "cytoolz"
+
+[[package]]
+description = "Allows using distutils2-like setup.cfg files for a package's metadata with a distribute/setuptools setup.py"
+conda = "d2to1"
+pypi = "d2to1"
+
+[[package]]
+description = "Parallel Python with task scheduling"
+conda = "dask-core"
+pypi = "dask"
+
+[[package]]
+description = "Generalized Linear Models in Dask"
+conda = "dask-glm"
+pypi = "dask-glm"
+
+[[package]]
+description = "Distributed and parallel machine learning using dask."
+conda = "dask-ml"
+pypi = "dask-ml"
+
+[[package]]
+description = "Tools for doing hyperparameter search with Scikit-Learn and Dask"
+conda = "dask-searchcv"
+pypi = "dask-searchcv"
+
+[[package]]
+description = "Data visualization toolchain based on aggregating into a grid"
+conda = "datashader"
+pypi = "datashader"
+
+[[package]]
+description = "Pure python package for reading/writing dBase, FoxPro, and Visual FoxPro .dbf files (including memos)"
+conda = "dbf"
+pypi = "dbf"
+
+[[package]]
+description = "read data from dbf files"
+conda = "dbfread"
+pypi = "dbfread"
+
+[[package]]
+description = "Better living through Python with decorators."
+conda = "decorator"
+pypi = "decorator"
+
+[[package]]
+description = "XML bomb protection for Python stdlib modules"
+conda = "defusedxml"
+pypi = "defusedxml"
+
+[[package]]
+description = "Use geometric objects as matplotlib paths and patches."
+conda = "descartes"
+pypi = "descartes"
+
+[[package]]
+description = "Serialize all of python (almost)"
+conda = "dill"
+pypi = "dill"
+
+[[package]]
+description = "Distribution utilities"
+conda = "distlib"
+pypi = "distlib"
+
+[[package]]
+description = "Distributed computing with Dask"
+conda = "distributed"
+pypi = "distributed"
+
+[[package]]
+description = "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+conda = "django"
+pypi = "Django"
+
+[[package]]
+description = "A DNS toolkit for Python"
+conda = "dnspython"
+pypi = "dnspython"
+
+[[package]]
+description = "Pythonic argument parser, that will make you smile"
+conda = "docopt"
+pypi = "docopt"
+
+[[package]]
+description = "Docutils -- Python Documentation Utilities"
+conda = "docutils"
+pypi = "docutils"
+
+[[package]]
+description = "doit - Automation Tool"
+conda = "doit"
+pypi = "doit"
+
+[[package]]
+description = "Python wrapper around the C DRMAA library"
+conda = "drmaa"
+pypi = "drmaa"
+
+[[package]]
+description = "Official Dropbox API Client"
+conda = "dropbox"
+pypi = "dropbox"
+
+[[package]]
+description = "ECDSA cryptographic signature library (pure Python)"
+conda = "ecdsa"
+pypi = "ecdsa"
+
+[[package]]
+description = "Embedded Conic Solver (ECOS)"
+conda = "ecos"
+pypi = "ecos"
+
+[[package]]
+description = "Async backend for elasticsearch-py"
+conda = "elasticsearch-async"
+pypi = "elasticsearch-async"
+
+[[package]]
+description = "Higher-level Python client for Elasticsearch"
+conda = "elasticsearch-dsl"
+pypi = "elasticsearch-dsl"
+
+[[package]]
+description = "Python client for Elasticsearch"
+conda = "elasticsearch"
+pypi = "elasticsearch"
+
+[[package]]
+description = "Declarative DSL for building rich user interfaces in Python"
+conda = "enaml"
+pypi = "enaml"
+
+[[package]]
+description = "Discover and load entry points from installed packages."
+conda = "entrypoints"
+pypi = "entrypoints"
+
+[[package]]
+description = "Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4"
+conda = "enum34"
+pypi = "enum34"
+
+[[package]]
+description = "Extensible application framework"
+conda = "envisage"
+pypi = "envisage"
+
+[[package]]
+description = "Basic astronomical computations for Python"
+conda = "ephem"
+pypi = "ephem"
+
+[[package]]
+description = "An implementation of lxml.xmlfile for the standard library"
+conda = "et_xmlfile"
+pypi = "et_xmlfile"
+
+[[package]]
+description = "distributed Python deployment and communication"
+conda = "execnet"
+pypi = "execnet"
+
+[[package]]
+description = "Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+ compatible fork)."
+conda = "fabric3"
+pypi = "Fabric3"
+
+[[package]]
+description = "Fabric is a simple, Pythonic tool for remote execution and deployment."
+conda = "fabric"
+pypi = "fabric"
+
+[[package]]
+description = "A versatile test fixtures replacement based on thoughtbot's factory_girl for Ruby."
+conda = "factory_boy"
+pypi = "factory_boy"
+
+[[package]]
+description = "Faker is a Python package that generates fake data for you."
+conda = "faker"
+pypi = "Faker"
+
+[[package]]
+description = "C implementation of Python 3 lru_cache"
+conda = "fastcache"
+pypi = "fastcache"
+
+[[package]]
+description = "Fast 1D and 2D histogram functions in Python"
+conda = "fast-histogram"
+pypi = "fast-histogram"
+
+[[package]]
+description = "Python interface to the parquet format"
+conda = "fastparquet"
+pypi = "fastparquet"
+
+[[package]]
+description = "Fast, re-entrant optimistic lock implemented in Cython"
+conda = "fastrlock"
+pypi = "fastrlock"
+
+[[package]]
+description = "Display the Python traceback on a crash"
+conda = "faulthandler"
+pypi = "faulthandler"
+
+[[package]]
+description = "A platform independent file lock."
+conda = "filelock"
+pypi = "filelock"
+
+[[package]]
+description = "Your Tool For Style Guide Enforcement"
+conda = "flake8"
+pypi = "flake8"
+
+[[package]]
+description = "A flake8 and Pylama plugin that checks the ordering of your imports."
+conda = "flake8-import-order"
+pypi = "flake8-import-order"
+
+[[package]]
+description = "Provides some compatibility helpers for Flake8 plugins that intend to support Flake8 2.x and 3.x simultaneously."
+conda = "flake8-polyfill"
+pypi = "flake8-polyfill"
+
+[[package]]
+description = "Plugin for nose or py.test that automatically reruns flaky tests."
+conda = "flaky"
+pypi = "flaky"
+
+[[package]]
+description = "A Flask extension adding a decorator for CORS support"
+conda = "flask-cors"
+pypi = "Flask-Cors"
+
+[[package]]
+description = "A microframework based on Werkzeug, Jinja2 and good intentions."
+conda = "flask"
+pypi = "Flask"
+
+[[package]]
+description = "User session management for Flask"
+conda = "flask-login"
+pypi = "Flask-Login"
+
+[[package]]
+description = "Socket.IO integration for Flask applications"
+conda = "flask-socketio"
+pypi = "Flask-SocketIO"
+
+[[package]]
+description = "Simplified packaging of Python modules"
+conda = "flit"
+pypi = "flit"
+
+[[package]]
+description = "Fixes some problems with Unicode text after the fact"
+conda = "ftfy"
+pypi = "ftfy"
+
+[[package]]
+description = "Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+."
+conda = "funcsigs"
+pypi = "funcsigs"
+
+[[package]]
+description = "Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy."
+conda = "functools32"
+pypi = "functools32"
+
+[[package]]
+description = "URL manipulation made simple."
+conda = "furl"
+pypi = "furl"
+
+[[package]]
+description = "Clean single-source support for Python 3 and 2"
+conda = "future"
+pypi = "future"
+
+[[package]]
+description = "Backport of the concurrent.futures package from Python 3.2"
+conda = "futures"
+pypi = "futures"
+
+[[package]]
+description = "Python AST that abstracts the underlying Python version"
+conda = "gast"
+pypi = "gast"
+
+[[package]]
+description = "Topic Modelling for Humans"
+conda = "gensim"
+pypi = "gensim"
+
+[[package]]
+description = "GenSON is a powerful, user-friendly JSON Schema generator."
+conda = "genson"
+pypi = "genson"
+
+[[package]]
+description = "GeoViews is a Python library that makes it easy to explore and visualize geographical, meteorological, and oceanographic datasets, such as those used in weather, climate, and remote sensing research."
+conda = "geoviews-core"
+pypi = "geoviews"
+
+[[package]]
+description = "Coroutine-based network library"
+conda = "gevent"
+pypi = "gevent"
+
+[[package]]
+description = "A pure-Python git object database"
+conda = "gitdb2"
+pypi = "gitdb2"
+
+[[package]]
+description = "Multi-dimensional linked data exploration"
+conda = "glue-core"
+pypi = "glue-core"
+
+[[package]]
+description = "3D viewers for Glue"
+conda = "glue-vispy-viewers"
+pypi = "glue-vispy-viewers"
+
+[[package]]
+description = "Multi-dimensional linked data exploration"
+conda = "glueviz"
+pypi = "glueviz"
+
+[[package]]
+description = "GMP/MPIR, MPFR, and MPC interface to Python 2.6+ and 3.x"
+conda = "gmpy2"
+pypi = "gmpy2"
+
+[[package]]
+description = "Lightweight in-process concurrent programming"
+conda = "greenlet"
+pypi = "greenlet"
+
+[[package]]
+description = "Map Python functions onto a cluster using a grid engine"
+conda = "gridmap"
+pypi = "gridmap"
+
+[[package]]
+description = "Enhanced grep-like tool"
+conda = "grin"
+pypi = "grin"
+
+[[package]]
+description = "HTTP/2-based RPC framework"
+conda = "grpcio"
+pypi = "grpcio"
+
+[[package]]
+description = "WSGI HTTP Server for UNIX"
+conda = "gunicorn"
+pypi = "gunicorn"
+
+[[package]]
+description = "HTTP/2 State-Machine based protocol implementation"
+conda = "h2"
+pypi = "h2"
+
+[[package]]
+description = "Python wrapper for libhdfs3"
+conda = "hdfs3"
+pypi = "hdfs3"
+
+[[package]]
+description = "Project with useful classes/methods for all projects created by the HDInsight team at Microsoft around Jupyter"
+conda = "hdijupyterutils"
+pypi = "hdijupyterutils"
+
+[[package]]
+description = "Stop plotting your data - annotate your data and let it visualize itself."
+conda = "holoviews"
+pypi = "holoviews"
+
+[[package]]
+description = "HTTP/2 Header Encoding for Python"
+conda = "hpack"
+pypi = "hpack"
+
+[[package]]
+description = "HTML parser based on the WHATWG HTML specification"
+conda = "html5lib"
+pypi = "html5lib"
+
+[[package]]
+description = "HTTP client mocking tool for Python"
+conda = "httpretty"
+pypi = "httpretty"
+
+[[package]]
+description = "Human friendly output for text interfaces using Python."
+conda = "humanfriendly"
+pypi = "humanfriendly"
+
+[[package]]
+description = "Integrated process monitor for developing and reloading daemons."
+conda = "hupper"
+pypi = "hupper"
+
+[[package]]
+description = "Pure-Python HTTP/2 framing "
+conda = "hyperframe"
+pypi = "hyperframe"
+
+[[package]]
+description = "Immutable, Pythonic, correct URLs."
+conda = "hyperlink"
+pypi = "hyperlink"
+
+[[package]]
+description = "Productivity-centric Python Big Data Framework"
+conda = "ibis-framework"
+pypi = "ibis-framework"
+
+[[package]]
+description = "Internationalized Domain Names in Applications (IDNA)."
+conda = "idna"
+pypi = "idna"
+
+[[package]]
+description = "Patch ssl.match_hostname for Unicode(idna) domains support"
+conda = "idna_ssl"
+pypi = "idna-ssl"
+
+[[package]]
+description = "a Python library for reading and writing image data"
+conda = "imageio"
+pypi = "imageio"
+
+[[package]]
+description = "Getting image size from png/jpeg/jpeg2000/gif file"
+conda = "imagesize"
+pypi = "imagesize"
+
+[[package]]
+description = "Interactive Minimization Tools based on MINUIT"
+conda = "iminuit"
+pypi = "iminuit"
+
+[[package]]
+description = "Python client for the Impala distributed query engine"
+conda = "impyla"
+pypi = "impyla"
+
+[[package]]
+description = "A library that versions your Python projects"
+conda = "incremental"
+pypi = "incremental"
+
+[[package]]
+description = "All-in-one infinity value for Python. Can be compared to any object."
+conda = "infinity"
+pypi = "infinity"
+
+[[package]]
+description = "A port of Ruby on Rails inflector to Python"
+conda = "inflection"
+pypi = "inflection"
+
+[[package]]
+description = "Python tools for handling intervals (ranges of comparable objects)."
+conda = "intervals"
+pypi = "intervals"
+
+[[package]]
+description = "Pythonic task execution"
+conda = "invoke"
+pypi = "invoke"
+
+[[package]]
+description = "IPv4/IPv6 manipulation library"
+conda = "ipaddress"
+pypi = "ipaddress"
+
+[[package]]
+description = "Google's Python IP address manipulation library"
+conda = "ipaddr"
+pypi = "ipaddr"
+
+[[package]]
+description = "IPython Kernel for Jupyter"
+conda = "ipykernel"
+pypi = "ipykernel"
+
+[[package]]
+description = "Interactive Parallel Computing with IPython"
+conda = "ipyparallel"
+pypi = "ipyparallel"
+
+[[package]]
+description = "IPython: Productive Interactive Computing"
+conda = "ipython"
+pypi = "ipython"
+
+[[package]]
+description = "IPython: Productive Interactive Computing"
+conda = "ipython"
+pypi = "ipython"
+
+[[package]]
+description = "vestigial utilities from IPython"
+conda = "ipython_genutils"
+pypi = "ipython_genutils"
+
+[[package]]
+description = "Jupyter Interactive Widgets"
+conda = "ipywidgets"
+pypi = "ipywidgets"
+
+[[package]]
+description = "Simple module to parse ISO 8601 dates"
+conda = "iso8601"
+pypi = "iso8601"
+
+[[package]]
+description = "An ISO 8601 date/time/duration parser and formatter."
+conda = "isodate"
+pypi = "isodate"
+
+[[package]]
+description = "A Python utility / library to sort Python imports."
+conda = "isort"
+pypi = "isort"
+
+[[package]]
+description = "Various helpers to pass trusted data to untrusted environments."
+conda = "itsdangerous"
+pypi = "itsdangerous"
+
+[[package]]
+description = "jaraco.classes"
+conda = "jaraco.classes"
+pypi = "jaraco.classes"
+
+[[package]]
+description = "Julian dates from proleptic Gregorian and Julian calendars."
+conda = "jdcal"
+pypi = "jdcal"
+
+[[package]]
+description = "An autocompletion tool for Python that can be used for text editors."
+conda = "jedi"
+pypi = "jedi"
+
+[[package]]
+description = "Pure Python DBus interface"
+conda = "jeepney"
+pypi = "jeepney"
+
+[[package]]
+description = "An easy to use stand-alone template engine written in pure python."
+conda = "jinja2"
+pypi = "Jinja2"
+
+[[package]]
+description = "Query language for JSON"
+conda = "jmespath"
+pypi = "jmespath"
+
+[[package]]
+description = "JSON with datetime support"
+conda = "jsondate"
+pypi = "jsondate"
+
+[[package]]
+description = "An implementation of JSON Schema validation for Python"
+conda = "jsonschema"
+pypi = "jsonschema"
+
+[[package]]
+description = "Jupyter protocol implementation and client libraries"
+conda = "jupyter_client"
+pypi = "jupyter_client"
+
+[[package]]
+description = "Jupyter terminal console"
+conda = "jupyter_console"
+pypi = "jupyter_console"
+
+[[package]]
+description = "Core common functionality of Jupyter projects."
+conda = "jupyter_core"
+pypi = "jupyter_core"
+
+[[package]]
+description = "Jupyter metapackage. Install all the Jupyter components in one go."
+conda = "jupyter"
+pypi = "jupyter"
+
+[[package]]
+description = "An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture. Currently in beta.\n"
+conda = "jupyterlab"
+pypi = "jupyterlab"
+
+[[package]]
+description = "A Launcher for JupyterLab based applications."
+conda = "jupyterlab_launcher"
+pypi = "jupyterlab_launcher"
+
+[[package]]
+description = "Deep Learning Library for Theano and TensorFlow"
+conda = "keras-base"
+pypi = "Keras"
+
+[[package]]
+description = "Deep Learning Library for Theano and TensorFlow"
+conda = "keras"
+pypi = "Keras"
+
+[[package]]
+description = "Deep Learning Library for Theano and TensorFlow"
+conda = "keras-gpu"
+pypi = "Keras"
+
+[[package]]
+description = "Alternate keyring backend implementations for use with the keyring package."
+conda = "keyrings.alt"
+pypi = "keyrings.alt"
+
+[[package]]
+description = "Python interface YARN"
+conda = "knit"
+pypi = "knit"
+
+[[package]]
+description = "A fast and thorough lazy object proxy."
+conda = "lazy-object-proxy"
+pypi = "lazy-object-proxy"
+
+[[package]]
+description = "A strictly RFC 4510 conforming LDAP V3 pure Python client library"
+conda = "ldap3"
+pypi = "ldap3"
+
+[[package]]
+description = "Python charting for 80% of humans."
+conda = "leather"
+pypi = "leather"
+
+[[package]]
+description = "Backport of the linecache module"
+conda = "linecache2"
+pypi = "linecache2"
+
+[[package]]
+description = "Line-by-line profiling for Python"
+conda = "line_profiler"
+pypi = "line_profiler"
+
+[[package]]
+description = "File-based locks for Python for Linux and Windows"
+conda = "locket"
+pypi = "locket"
+
+[[package]]
+description = "Platform-independent file locking module"
+conda = "lockfile"
+pypi = "lockfile"
+
+[[package]]
+description = "collection of low-level Python packages and modules used by Logilab projects"
+conda = "logilab-common"
+pypi = "logilab-common"
+
+[[package]]
+description = "Pythonic binding for the C libraries libxml2 and libxslt."
+conda = "lxml"
+pypi = "lxml"
+
+[[package]]
+description = "A super-fast templating language that borrows the best ideas from the existing templating languages."
+conda = "mako"
+pypi = "Mako"
+
+[[package]]
+description = "fast and complete Python implementation of Markdown"
+conda = "markdown2"
+pypi = "markdown2"
+
+[[package]]
+description = "Python implementation of Markdown."
+conda = "markdown"
+pypi = "Markdown"
+
+[[package]]
+description = "A Python module that implements the jinja2.Markup string"
+conda = "markupsafe"
+pypi = "MarkupSafe"
+
+[[package]]
+description = "McCabe complexity checker for Python"
+conda = "mccabe"
+pypi = "mccabe"
+
+[[package]]
+description = "A module for monitoring memory usage of a python program"
+conda = "memory_profiler"
+pypi = "memory_profiler"
+
+[[package]]
+description = "The Meson Build System"
+conda = "meson"
+pypi = "meson"
+
+[[package]]
+description = "Metakernel for Jupyter."
+conda = "metakernel"
+pypi = "metakernel"
+
+[[package]]
+description = "The fastest markdown parser in pure Python."
+conda = "mistune"
+pypi = "mistune"
+
+[[package]]
+description = "A library for testing in Python."
+conda = "mock"
+pypi = "mock"
+
+[[package]]
+description = "More routines for operating on iterables, beyond itertools"
+conda = "more-itertools"
+pypi = "more-itertools"
+
+[[package]]
+description = "Library for unsupervised and semi-supervised morphological segmentation"
+conda = "morfessor"
+pypi = "Morfessor"
+
+[[package]]
+description = "D3 Viewer for Matplotlib."
+conda = "mpld3"
+pypi = "mpld3"
+
+[[package]]
+description = "Matplotlib helpers to make density scatter plots"
+conda = "mpl-scatter-density"
+pypi = "mpl-scatter-density"
+
+[[package]]
+description = "Python library for arbitrary-precision floating-point arithmetic"
+conda = "mpmath"
+pypi = "mpmath"
+
+[[package]]
+description = "Numpy data serialization using msgpack"
+conda = "msgpack-numpy"
+pypi = "msgpack-numpy"
+
+[[package]]
+description = "MessagePack (de)serializer."
+conda = "msgpack-python"
+pypi = "msgpack-python"
+
+[[package]]
+description = "multidict implementation"
+conda = "multidict"
+pypi = "multidict"
+
+[[package]]
+description = "Multiple dispatch in Python"
+conda = "multipledispatch"
+pypi = "multipledispatch"
+
+[[package]]
+description = "A dot-accessible dictionary (a la JavaScript objects)."
+conda = "munch"
+pypi = "munch"
+
+[[package]]
+description = "Cython bindings for MurmurHash2"
+conda = "murmurhash"
+pypi = "murmurhash"
+
+[[package]]
+description = "Experimental type system extensions for programs checked with the mypy typechecker."
+conda = "mypy_extensions"
+pypi = "mypy_extensions"
+
+[[package]]
+description = "Optional static typing for Python"
+conda = "mypy"
+pypi = "mypy"
+
+[[package]]
+description = "Python interface to MySQL"
+conda = "mysqlclient"
+pypi = "mysqlclient"
+
+[[package]]
+description = "Sort lists naturally"
+conda = "natsort"
+pypi = "natsort"
+
+[[package]]
+description = "Converting Jupyter Notebooks"
+conda = "nbconvert"
+pypi = "nbconvert"
+
+[[package]]
+description = "The reference implementation of the Jupyter Notebook format"
+conda = "nbformat"
+pypi = "nbformat"
+
+[[package]]
+description = "Jupyter server extension to proxy web services"
+conda = "nbserverproxy"
+pypi = "nbserverproxy"
+
+[[package]]
+description = "Basic notebook checks. Do they run? Do they contain lint?"
+conda = "nbsmoke"
+pypi = "nbsmoke"
+
+[[package]]
+description = "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL."
+conda = "ndg-httpsclient"
+pypi = "ndg-httpsclient"
+
+[[package]]
+description = "Nanosecond resolution temporal types"
+conda = "neotime"
+pypi = "neotime"
+
+[[package]]
+description = "Python package for creating and manipulating complex networks"
+conda = "networkx"
+pypi = "networkx"
+
+[[package]]
+description = "Python package for creating and manipulating complex networks"
+conda = "networkx"
+pypi = "networkx"
+
+[[package]]
+description = "Build Python programs to work with human language data"
+conda = "nltk"
+pypi = "nltk"
+
+[[package]]
+description = "Nose extends unittest to make testing easier"
+conda = "nose"
+pypi = "nose"
+
+[[package]]
+description = "Parameterized testing with any Python test framework."
+conda = "nose-parameterized"
+pypi = "nose-parameterized"
+
+[[package]]
+description = "A web-based notebook environment for interactive computing"
+conda = "notebook"
+pypi = "notebook"
+
+[[package]]
+description = "Array processing for numbers, strings, records, and objects."
+conda = "numpy"
+pypi = "numpy"
+
+[[package]]
+description = "Sphinx extension to support docstrings in Numpy format"
+conda = "numpydoc"
+pypi = "numpydoc"
+
+[[package]]
+description = "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"
+conda = "oauthlib"
+pypi = "oauthlib"
+
+[[package]]
+description = "parse, read and write Microsoft OLE2 files"
+conda = "olefile"
+pypi = "olefile"
+
+[[package]]
+description = "A Python library to read/write Excel 2010 xlsx/xlsm files"
+conda = "openpyxl"
+pypi = "openpyxl"
+
+[[package]]
+description = "OpenTracing API for Python."
+conda = "opentracing"
+pypi = "opentracing"
+
+[[package]]
+description = "Tracing Instrumentation using OpenTracing API (http://opentracing.io)"
+conda = "opentracing_instrumentation"
+pypi = "opentracing_instrumentation"
+
+[[package]]
+description = "Ordered Multivalue Dictionary - omdict."
+conda = "orderedmultidict"
+pypi = "orderedmultidict"
+
+[[package]]
+description = "OGC Web Service utility library."
+conda = "owslib"
+pypi = "OWSLib"
+
+[[package]]
+description = "Core utilities for Python packages"
+conda = "packaging"
+pypi = "packaging"
+
+[[package]]
+description = "Color palettes for Python."
+conda = "palettable"
+pypi = "palettable"
+
+[[package]]
+description = "Up to date remote data access for pandas, works for multiple versions of pandas"
+conda = "pandas-datareader"
+pypi = "pandas-datareader"
+
+[[package]]
+description = "Generate profile report for pandas DataFrame"
+conda = "pandas-profiling"
+pypi = "pandas-profiling"
+
+[[package]]
+description = "A python module for writing pandoc filters"
+conda = "pandocfilters"
+pypi = "pandocfilters"
+
+[[package]]
+description = "Parameterized testing with any Python test framework"
+conda = "parameterized"
+pypi = "parameterized"
+
+[[package]]
+description = "Param: Make your Python code clearer and more reliable by declaring Parameters"
+conda = "param"
+pypi = "param"
+
+[[package]]
+description = "SSH2 protocol library"
+conda = "paramiko"
+pypi = "paramiko"
+
+[[package]]
+description = "Parse human-readable date/time text."
+conda = "parsedatetime"
+pypi = "parsedatetime"
+
+[[package]]
+description = "library to extract data from HTML and XML using XPath and CSS selectors"
+conda = "parsel"
+pypi = "parsel"
+
+[[package]]
+description = "A Python Parser"
+conda = "parso"
+pypi = "parso"
+
+[[package]]
+description = "Data structure for on-disk shuffle operations"
+conda = "partd"
+pypi = "partd"
+
+[[package]]
+description = "comprehensive password hashing framework supporting over 30 schemes"
+conda = "passlib"
+pypi = "passlib"
+
+[[package]]
+description = "Load, configure, and compose WSGI applications and servers"
+conda = "pastedeploy"
+pypi = "PasteDeploy"
+
+[[package]]
+description = "Fork of pathlib aiming to support the full stdlib Python API."
+conda = "pathlib2"
+pypi = "pathlib2"
+
+[[package]]
+description = "Object-oriented filesystem paths"
+conda = "pathlib"
+pypi = "pathlib"
+
+[[package]]
+description = "A module wrapper for os.path"
+conda = "path.py"
+pypi = "path.py"
+
+[[package]]
+description = "Describing statistical models in Python using symbolic formulas"
+conda = "patsy"
+pypi = "patsy"
+
+[[package]]
+description = "Python Build Reasonableness"
+conda = "pbr"
+pypi = "pbr"
+
+[[package]]
+description = "Python style guide checker"
+conda = "pep8"
+pypi = "pep8"
+
+[[package]]
+description = "Plug-in for flake 8 to check the PEP-8 naming conventions"
+conda = "pep8-naming"
+pypi = "pep8-naming"
+
+[[package]]
+description = "Python module to generate and modify perf"
+conda = "perf"
+pypi = "perf"
+
+[[package]]
+description = "Python benchmark suite"
+conda = "performance"
+pypi = "performance"
+
+[[package]]
+description = "Translucent persistent objects"
+conda = "persistent"
+pypi = "persistent"
+
+[[package]]
+description = "A Python package for extracting, transforming and loading tables of data."
+conda = "petl"
+pypi = "petl"
+
+[[package]]
+description = "Pexpect makes Python a better tool for controlling other applications."
+conda = "pexpect"
+pypi = "pexpect"
+
+[[package]]
+description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
+conda = "phonenumbers"
+pypi = "phonenumbers"
+
+[[package]]
+description = "Tiny 'shelve'-like database with concurrency support"
+conda = "pickleshare"
+pypi = "pickleshare"
+
+[[package]]
+description = "Pillow is the friendly PIL fork by Alex Clark and Contributors."
+conda = "pillow"
+pypi = "Pillow"
+
+[[package]]
+description = "PyPA recommended tool for installing Python packages"
+conda = "pip"
+pypi = "pip"
+
+[[package]]
+description = "PivotTable.js integration for Jupyter/IPython Notebook"
+conda = "pivottablejs"
+pypi = "pivottablejs"
+
+[[package]]
+description = "Query metadatdata from sdists / bdists / installed packages."
+conda = "pkginfo"
+pypi = "pkginfo"
+
+[[package]]
+description = "The smartest command line arguments parser in the world"
+conda = "plac"
+pypi = "plac"
+
+[[package]]
+description = "A loader interface around multiple config file formats."
+conda = "plaster"
+pypi = "plaster"
+
+[[package]]
+description = "A loader implementing the PasteDeploy syntax to be used by plaster."
+conda = "plaster_pastedeploy"
+pypi = "plaster_pastedeploy"
+
+[[package]]
+description = "An interactive, browser-based graphing library for Python"
+conda = "plotly"
+pypi = "plotly"
+
+[[package]]
+description = "Plugin registration and hook calling for Python"
+conda = "pluggy"
+pypi = "pluggy"
+
+[[package]]
+description = "TCP port monitoring utilities"
+conda = "portend"
+pypi = "portend"
+
+[[package]]
+description = "A library to choose unique available network ports."
+conda = "portpicker"
+pypi = "portpicker"
+
+[[package]]
+description = "POSIX IPC for Python"
+conda = "posix_ipc"
+pypi = "posix_ipc"
+
+[[package]]
+description = "A library for stubbing in Python"
+conda = "pretend"
+pypi = "pretend"
+
+[[package]]
+description = "A pure-Python implementation of the HTTP/2 priority tree"
+conda = "priority"
+pypi = "priority"
+
+[[package]]
+description = "A Python Progressbar library to provide visual (yet text based) progress to long running operations."
+conda = "progressbar2"
+pypi = "progressbar2"
+
+[[package]]
+description = "Easy progress reporting for Python"
+conda = "progress"
+pypi = "progress"
+
+[[package]]
+description = "Library for building powerful interactive command lines in Python"
+conda = "prompt_toolkit"
+pypi = "prompt_toolkit"
+
+[[package]]
+description = "Library for building powerful interactive command lines in Python"
+conda = "prompt_toolkit"
+pypi = "prompt_toolkit"
+
+[[package]]
+description = "A cross-platform process and system utilities module for Python"
+conda = "psutil"
+pypi = "psutil"
+
+[[package]]
+description = "PostgreSQL database adapter for Python"
+conda = "psycopg2"
+pypi = "psycopg2"
+
+[[package]]
+description = "Run a subprocess in a pseudo terminal"
+conda = "ptyprocess"
+pypi = "ptyprocess"
+
+[[package]]
+description = "Pure Python client SASL implementation"
+conda = "pure-sasl"
+pypi = "pure-sasl"
+
+[[package]]
+description = "Enables Python programs to dynamically access arbitrary Java objects"
+conda = "py4j"
+pypi = "py4j"
+
+[[package]]
+description = "Algebraic Multigrid Solvers in Python"
+conda = "pyamg"
+pypi = "pyamg"
+
+[[package]]
+description = "ASN.1 types and codecs"
+conda = "pyasn1"
+pypi = "pyasn1"
+
+[[package]]
+description = "A collection of ASN.1-based protocols modules."
+conda = "pyasn1-modules"
+pypi = "pyasn1-modules"
+
+[[package]]
+description = "Python style guide checker"
+conda = "pycodestyle"
+pypi = "pycodestyle"
+
+[[package]]
+description = "Complete C99 parser in pure Python"
+conda = "pycparser"
+pypi = "pycparser"
+
+[[package]]
+description = "A module for getting CPU info with Python 2 & 3"
+conda = "py-cpuinfo"
+pypi = "py-cpuinfo"
+
+[[package]]
+description = "Cryptographic library for Python"
+conda = "pycryptodomex"
+pypi = "pycryptodomex"
+
+[[package]]
+description = "Cryptographic modules for Python."
+conda = "pycrypto"
+pypi = "pycrypto"
+
+[[package]]
+description = "python package common tasks for users (e.g. copy examples, fetch data, ...)"
+conda = "pyct"
+pypi = "pyct"
+
+[[package]]
+description = "A Python Interface To The cURL library"
+conda = "pycurl"
+pypi = "pycurl"
+
+[[package]]
+description = "Multi-producer-multi-consumer signal dispatching mechanism"
+conda = "pydispatcher"
+pypi = "PyDispatcher"
+
+[[package]]
+description = "Python interface to Graphviz's Dot"
+conda = "pydot"
+pypi = "pydot"
+
+[[package]]
+description = "A Python wrapper for the Earth Mover's Distance."
+conda = "pyemd"
+pypi = "pyemd"
+
+[[package]]
+description = "Traits-capable windowing framework"
+conda = "pyface"
+pypi = "pyface"
+
+[[package]]
+description = "library with cross-python path, ini-parsing, io, code, log facilities"
+conda = "py"
+pypi = "py"
+
+[[package]]
+description = "Pyflakes analyzes programs and detects various errors."
+conda = "pyflakes"
+pypi = "pyflakes"
+
+[[package]]
+description = "Pyflakes analyzes programs and detects various errors."
+conda = "pyflakes"
+pypi = "pyflakes"
+
+[[package]]
+description = "Generic syntax highlighting package"
+conda = "pygments"
+pypi = "Pygments"
+
+[[package]]
+description = "Python interface to Hive"
+conda = "pyhive"
+pypi = "PyHive"
+
+[[package]]
+description = "Monitoring filesystems events with inotify on Linux."
+conda = "pyinotify"
+pypi = "pyinotify"
+
+[[package]]
+description = "JSON Web Token implementation in Python"
+conda = "pyjwt"
+pypi = "PyJWT"
+
+[[package]]
+description = "high-level interface to Kerberos"
+conda = "pykerberos"
+pypi = "pykerberos"
+
+[[package]]
+description = "python code static checker"
+conda = "pylint"
+pypi = "pylint"
+
+[[package]]
+description = "Pure Python MySQL Driver"
+conda = "pymysql"
+pypi = "PyMySQL"
+
+[[package]]
+description = "PyNaCl is a Python binding to the Networking and Cryptography library, a crypto library with the stated goal of improving usability, security and speed."
+conda = "pynacl"
+pypi = "PyNaCl"
+
+[[package]]
+description = "DB API Module for ODBC"
+conda = "pyodbc"
+pypi = "pyodbc"
+
+[[package]]
+description = "Standard OpenGL bindings for Python"
+conda = "pyopengl"
+pypi = "PyOpenGL"
+
+[[package]]
+description = "Python wrapper module around the OpenSSL library"
+conda = "pyopenssl"
+pypi = "pyOpenSSL"
+
+[[package]]
+description = "Create and execute simple grammars"
+conda = "pyparsing"
+pypi = "pyparsing"
+
+[[package]]
+description = "Scientific Graphics and GUI Library for Python"
+conda = "pyqtgraph"
+pypi = "pyqtgraph"
+
+[[package]]
+description = "A jquery-like library for python"
+conda = "pyquery"
+pypi = "pyquery"
+
+[[package]]
+description = "interactive HTML debugger for Pyramid application development"
+conda = "pyramid_debugtoolbar"
+pypi = "pyramid_debugtoolbar"
+
+[[package]]
+description = "The Pyramid Web Framework, a Pylons project"
+conda = "pyramid"
+pypi = "pyramid"
+
+[[package]]
+description = "Jinja2 template bindings for the Pyramid web framework"
+conda = "pyramid_jinja2"
+pypi = "pyramid_jinja2"
+
+[[package]]
+description = "Mako template bindings for the Pyramid web framework"
+conda = "pyramid_mako"
+pypi = "pyramid_mako"
+
+[[package]]
+description = "Allows Pyramid requests to join the active transaction"
+conda = "pyramid_tm"
+pypi = "pyramid_tm"
+
+[[package]]
+description = "Library of spatial analysis functions."
+conda = "pysal"
+pypi = "PySAL"
+
+[[package]]
+description = "htslib interface for python"
+conda = "pysam"
+pypi = "pysam"
+
+[[package]]
+description = "Python serial port access library"
+conda = "pyserial"
+pypi = "pyserial"
+
+[[package]]
+description = "Pure Python read/write support for ESRI Shapefile format."
+conda = "pyshp"
+pypi = "pyshp"
+
+[[package]]
+description = "SNMP SMI/MIB Parser"
+conda = "pysmi"
+pypi = "pysmi"
+
+[[package]]
+description = "SNMP library for Python"
+conda = "pysnmp"
+pypi = "pysnmp"
+
+[[package]]
+description = "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information."
+conda = "pysocks"
+pypi = "PySocks"
+
+[[package]]
+description = "Python interface to Stan, a package for Bayesian inference"
+conda = "pystan"
+pypi = "pystan"
+
+[[package]]
+description = "pytest plugin to help with comparing array output from tests"
+conda = "pytest-arraydiff"
+pypi = "pytest-arraydiff"
+
+[[package]]
+description = "Meta-package containing dependencies for testing Astropy"
+conda = "pytest-astropy"
+pypi = "pytest-astropy"
+
+[[package]]
+description = "Pytest support for asyncio"
+conda = "pytest-asyncio"
+pypi = "pytest-asyncio"
+
+[[package]]
+description = "pytest plugin for URL based testing"
+conda = "pytest-base-url"
+pypi = "pytest-base-url"
+
+[[package]]
+description = "A py.test fixture for benchmarking code"
+conda = "pytest-benchmark"
+pypi = "pytest-benchmark"
+
+[[package]]
+description = "Pytest plugin for measuring coverage"
+conda = "pytest-cov"
+pypi = "pytest-cov"
+
+[[package]]
+description = "Pytest plugin with advanced doctest features"
+conda = "pytest-doctestplus"
+pypi = "pytest-doctestplus"
+
+[[package]]
+description = "Simple and powerful testing with Python."
+conda = "pytest"
+pypi = "pytest"
+
+[[package]]
+description = "run tests in isolated forked subprocesses"
+conda = "pytest-forked"
+pypi = "pytest-forked"
+
+[[package]]
+description = "pytest plugin for generating HTML reports"
+conda = "pytest-html"
+pypi = "pytest-html"
+
+[[package]]
+description = "pytest plugin for test session metadata"
+conda = "pytest-metadata"
+pypi = "pytest-metadata"
+
+[[package]]
+description = "Thin-wrapper around the mock package for easier use with py.test"
+conda = "pytest-mock"
+pypi = "pytest-mock"
+
+[[package]]
+description = "Pytest plugin for detecting inadvertent open file handles"
+conda = "pytest-openfiles"
+pypi = "pytest-openfiles"
+
+[[package]]
+description = "Pytest plugin for controlling remote data access"
+conda = "pytest-remotedata"
+pypi = "pytest-remotedata"
+
+[[package]]
+description = "Invoke py.test as distutils command with dependency resolution."
+conda = "pytest-runner"
+pypi = "pytest-runner"
+
+[[package]]
+description = "pytest-selenium is a plugin for py.test that provides support for running Selenium based tests."
+conda = "pytest-selenium"
+pypi = "pytest-selenium"
+
+[[package]]
+description = "This is a plugin which will terminate tests after a certain timeout."
+conda = "pytest-timeout"
+pypi = "pytest-timeout"
+
+[[package]]
+description = "pytest plugin for providing variables to tests/fixtures"
+conda = "pytest-variables"
+pypi = "pytest-variables"
+
+[[package]]
+description = "py.test xdist plugin for distributed testing and loop-on-failing modes"
+conda = "pytest-xdist"
+pypi = "pytest-xdist"
+
+[[package]]
+description = "A Python wrapper for the extremely fast Blosc compression library"
+conda = "python-blosc"
+pypi = "blosc"
+
+[[package]]
+description = "Python binding for CRFsuite"
+conda = "python-crfsuite"
+pypi = "python-crfsuite"
+
+[[package]]
+description = "Library to implement a well-behaved Unix daemon process."
+conda = "python-daemon"
+pypi = "python-daemon"
+
+[[package]]
+description = "Extensions to the standard Python datetime module."
+conda = "python-dateutil"
+pypi = "python-dateutil"
+
+[[package]]
+description = "Programmatically open an editor, capture the result."
+conda = "python-editor"
+pypi = "python-editor"
+
+[[package]]
+description = "Engine.IO server"
+conda = "python-engineio"
+pypi = "python-engineio"
+
+[[package]]
+description = "Google Commandline Flags Module"
+conda = "python-gflags"
+pypi = "python-gflags"
+
+[[package]]
+description = "Simple Python interface for Graphviz"
+conda = "python-graphviz"
+pypi = "graphviz"
+
+[[package]]
+description = "HdfsCLI: API and command line interface for HDFS."
+conda = "python-hdfs"
+pypi = "hdfs"
+
+[[package]]
+description = "Python bindings for leveldb database library"
+conda = "python-leveldb"
+pypi = "leveldb"
+
+[[package]]
+description = "Python interface to libarchive"
+conda = "python-libarchive-c"
+pypi = "libarchive-c"
+
+[[package]]
+description = "Pure python memcached client"
+conda = "python-memcached"
+pypi = "python-memcached"
+
+[[package]]
+description = "Python wrapper around rapidjson"
+conda = "python-rapidjson"
+pypi = "python-rapidjson"
+
+[[package]]
+description = "A Python Slugify application that handles Unicode"
+conda = "python-slugify"
+pypi = "python-slugify"
+
+[[package]]
+description = "Python library for the snappy compression library from Google"
+conda = "python-snappy"
+pypi = "python-snappy"
+
+[[package]]
+description = "Socket.IO server"
+conda = "python-socketio"
+pypi = "python-socketio"
+
+[[package]]
+description = "Python Utils is a collection of small Python functions and classes which make common patterns shorter and easier."
+conda = "python-utils"
+pypi = "python-utils"
+
+[[package]]
+description = "A small Python library to parse various kinds of time expressions"
+conda = "pytimeparse"
+pypi = "pytimeparse"
+
+[[package]]
+description = "A TOML-0.4.0 parser/writer for Python."
+conda = "pytoml"
+pypi = "pytoml"
+
+[[package]]
+description = "World timezone definitions, modern and historical."
+conda = "pytz"
+pypi = "pytz"
+
+[[package]]
+description = "PyUtilib: A collection of Python utilities"
+conda = "pyutilib"
+pypi = "PyUtilib"
+
+[[package]]
+description = "Bidirectional communication for PyViz"
+conda = "pyviz_comms"
+pypi = "pyviz_comms"
+
+[[package]]
+description = "Pure Python download utility"
+conda = "pywget"
+pypi = "wget"
+
+[[package]]
+description = "Python bindings for zeromq"
+conda = "pyzmq"
+pypi = "pyzmq"
+
+[[package]]
+description = "Pandas DataFrame viewer for Jupyter Notebook"
+conda = "qgrid"
+pypi = "qgrid"
+
+[[package]]
+description = "Iconic fonts in PyQt and PySide applications"
+conda = "qtawesome"
+pypi = "qtawesome"
+
+[[package]]
+description = "Jupyter Qt console"
+conda = "qtconsole"
+pypi = "qtconsole"
+
+[[package]]
+description = "Abtraction layer for PyQt5/PyQt4/PySide"
+conda = "qtpy"
+pypi = "qtpy"
+
+[[package]]
+description = "Collection of persistent (disk-based) queues"
+conda = "queuelib"
+pypi = "queuelib"
+
+[[package]]
+description = "Interactive per-layer visualization for convents in keras"
+conda = "quiver_engine"
+pypi = "quiver_engine"
+
+[[package]]
+description = "Alternative regular expression module, to replace re."
+conda = "regex"
+pypi = "regex"
+
+[[package]]
+description = "A tiny LRU cache implementation and decorator"
+conda = "repoze.lru"
+pypi = "repoze.lru"
+
+[[package]]
+description = "Download files using requests and save them to a target path"
+conda = "requests_download"
+pypi = "requests_download"
+
+[[package]]
+description = "Python HTTP for Humans."
+conda = "requests"
+pypi = "requests"
+
+[[package]]
+description = "file transport adapter for Requests"
+conda = "requests-file"
+pypi = "requests-file"
+
+[[package]]
+description = "An FTP transport adapter for use with the Python Requests library"
+conda = "requests-ftp"
+pypi = "requests-ftp"
+
+[[package]]
+description = "Kerberos authentication handler for python-requests"
+conda = "requests-kerberos"
+pypi = "requests-kerberos"
+
+[[package]]
+description = "OAuthlib authentication support for Requests."
+conda = "requests-oauthlib"
+pypi = "requests-oauthlib"
+
+[[package]]
+description = "A utility belt for advanced users of python-requests."
+conda = "requests-toolbelt"
+pypi = "requests-toolbelt"
+
+[[package]]
+description = "utility library for mocking out the 'requests' Python library"
+conda = "responses"
+pypi = "responses"
+
+[[package]]
+description = "A python refactoring library..."
+conda = "rope"
+pypi = "rope"
+
+[[package]]
+description = "Routing Recognition and Generation Tools"
+conda = "routes"
+pypi = "Routes"
+
+[[package]]
+description = "Convenient Filesystem interface over S3"
+conda = "s3fs"
+pypi = "s3fs"
+
+[[package]]
+description = "An Amazon S3 Transfer Manager"
+conda = "s3transfer"
+pypi = "s3transfer"
+
+[[package]]
+description = "sas7bdat file reader for Python"
+conda = "sas7bdat"
+pypi = "sas7bdat"
+
+[[package]]
+description = "A Jupyter kernel for SAS"
+conda = "sas_kernel"
+pypi = "sas_kernel"
+
+[[package]]
+description = "A Python interface module to the SAS System"
+conda = "saspy"
+pypi = "saspy"
+
+[[package]]
+description = "scandir, a better directory iterator and faster os.walk()"
+conda = "scandir"
+pypi = "scandir"
+
+[[package]]
+description = "Data structures, algorithms and educational resources for bioinformatics."
+conda = "scikit-bio"
+pypi = "scikit-bio"
+
+[[package]]
+description = "Open Source next-generation build tool."
+conda = "scons"
+pypi = "scons"
+
+[[package]]
+description = "A high-level Python Screen Scraping framework"
+conda = "scrapy"
+pypi = "Scrapy"
+
+[[package]]
+description = "Statistical data visualization"
+conda = "seaborn"
+pypi = "seaborn"
+
+[[package]]
+description = "Provides a way for securely storing passwords and other secrets."
+conda = "secretstorage"
+pypi = "SecretStorage"
+
+[[package]]
+description = "Python bindings for the Selenium WebDriver for automating web browser interaction."
+conda = "selenium"
+pypi = "selenium"
+
+[[package]]
+description = "Python package to work with Semantic Versioning"
+conda = "semver"
+pypi = "semver"
+
+[[package]]
+description = "Python library to natively send files to Trash (or Recycle bin) on all platforms."
+conda = "send2trash"
+pypi = "Send2Trash"
+
+[[package]]
+description = "An utility that accesses files on a HTTP server and stores them locally for reuse"
+conda = "serverfiles"
+pypi = "serverfiles"
+
+[[package]]
+description = "Service identity verification for pyOpenSSL."
+conda = "service_identity"
+pypi = "service_identity"
+
+[[package]]
+description = "Download, build, install, upgrade, and uninstall Python packages"
+conda = "setuptools"
+pypi = "setuptools"
+
+[[package]]
+description = "The blessed package to manage your versions by scm tags."
+conda = "setuptools_scm"
+pypi = "setuptools_scm"
+
+[[package]]
+description = "setuptools_scm plugin for git archives"
+conda = "setuptools_scm_git_archive"
+pypi = "setuptools_scm_git_archive"
+
+[[package]]
+description = "Python package for manipulation and analysis of geometric objects in the Cartesian plane."
+conda = "shapely"
+pypi = "Shapely"
+
+[[package]]
+description = "Python subprocess interface"
+conda = "sh"
+pypi = "sh"
+
+[[package]]
+description = "Simple generic functions (similar to Python's own len(), pickle.dump(), etc.)"
+conda = "simplegeneric"
+pypi = "simplegeneric"
+
+[[package]]
+description = "Simple, fast, extensible JSON encoder/decoder for Python"
+conda = "simplejson"
+pypi = "simplejson"
+
+[[package]]
+description = "Transforms a function into a single-dispatch generic function"
+conda = "singledispatch"
+pypi = "singledispatch"
+
+[[package]]
+description = "Python 2 and 3 compatibility utilities"
+conda = "six"
+pypi = "six"
+
+[[package]]
+description = "Python library for efficient streaming of large files"
+conda = "smart_open"
+pypi = "smart_open"
+
+[[package]]
+description = "A pure python implementation of a sliding window memory map manager"
+conda = "smmap2"
+pypi = "smmap2"
+
+[[package]]
+description = "Pure Python HDFS client"
+conda = "snakebite"
+pypi = "snakebite"
+
+[[package]]
+description = "Web-based viewer for Python profiler output"
+conda = "snakeviz"
+pypi = "snakeviz"
+
+[[package]]
+description = "Snowball stemming library collection for Python"
+conda = "snowballstemmer"
+pypi = "snowballstemmer"
+
+[[package]]
+description = "Snuggs are s-expressions for NumPy."
+conda = "snuggs"
+pypi = "snuggs"
+
+[[package]]
+description = "Simple to use SOAP library for Python"
+conda = "soappy"
+pypi = "SOAPpy"
+
+[[package]]
+description = "Python Sorted Collections"
+conda = "sortedcollections"
+pypi = "sortedcollections"
+
+[[package]]
+description = "Python Sorted Container Types: SortedList, SortedDict, and SortedSet"
+conda = "sortedcontainers"
+pypi = "sortedcontainers"
+
+[[package]]
+description = "Industrial-strength Natural Language Processing"
+conda = "spacy"
+pypi = "spacy"
+
+[[package]]
+description = "Jupyter magics and kernels for working with remote Spark clusters"
+conda = "sparkmagic"
+pypi = "sparkmagic"
+
+[[package]]
+description = "Sphinx API for Web Apps"
+conda = "sphinxcontrib-websupport"
+pypi = "sphinxcontrib-websupport"
+
+[[package]]
+description = "Sphinx is a tool that makes it easy to create intelligent and beautiful documentation"
+conda = "sphinx"
+pypi = "Sphinx"
+
+[[package]]
+description = "ReadTheDocs.org theme for Sphinx, 2013 version."
+conda = "sphinx_rtd_theme"
+pypi = "sphinx_rtd_theme"
+
+[[package]]
+description = "Scientific PYthon Development EnviRonment"
+conda = "spyder"
+pypi = "spyder"
+
+[[package]]
+description = "Jupyter kernels for the Spyder console"
+conda = "spyder-kernels"
+pypi = "spyder-kernels"
+
+[[package]]
+description = "Jupyter kernels for the Spyder console"
+conda = "spyder-kernels"
+pypi = "spyder-kernels"
+
+[[package]]
+description = "Database Abstraction Library."
+conda = "sqlalchemy"
+pypi = "SQLAlchemy"
+
+[[package]]
+description = "Various utility functions for SQLAlchemy."
+conda = "sqlalchemy-utils"
+pypi = "SQLAlchemy-Utils"
+
+[[package]]
+description = "A non-validating SQL parser module for Python."
+conda = "sqlparse"
+pypi = "sqlparse"
+
+[[package]]
+description = "The ssl.match_hostname() function from Python 3.5"
+conda = "ssl_match_hostname"
+pypi = "backports.ssl_match_hostname"
+
+[[package]]
+description = "A Python 2.* port of 3.4 Statistics Module"
+conda = "statistics"
+pypi = "statistics"
+
+[[package]]
+description = "Statistical computations and models for use with SciPy"
+conda = "statsmodels"
+pypi = "statsmodels"
+
+[[package]]
+description = "Manage streaming data, optionally with Dask and Pandas"
+conda = "streamz"
+pypi = "streamz"
+
+[[package]]
+description = "Stripe python bindings"
+conda = "stripe"
+pypi = "stripe"
+
+[[package]]
+description = "A backport of the subprocess module from Python 3.2/3.3 for use on 2.x."
+conda = "subprocess32"
+pypi = "subprocess32"
+
+[[package]]
+description = "A Process Control System"
+conda = "supervisor"
+pypi = "supervisor"
+
+[[package]]
+description = "Python library for symbolic mathematics"
+conda = "sympy"
+pypi = "sympy"
+
+[[package]]
+description = "Pretty-print tabular data in Python, a library and a command-line utility."
+conda = "tabulate"
+pypi = "tabulate"
+
+[[package]]
+description = "Traceback serialization library."
+conda = "tblib"
+pypi = "tblib"
+
+[[package]]
+description = "Objects and routines pertaining to date and time (tempora)"
+conda = "tempora"
+pypi = "tempora"
+
+[[package]]
+description = "ANSII Color formatting for output in terminal."
+conda = "termcolor"
+pypi = "termcolor"
+
+[[package]]
+description = "Terminals served by tornado websockets"
+conda = "terminado"
+pypi = "terminado"
+
+[[package]]
+description = "A collection of helpers and mock objects for unit tests and doc tests."
+conda = "testfixtures"
+pypi = "testfixtures"
+
+[[package]]
+description = "Testpath is a collection of utilities for Python code working with files and commands."
+conda = "testpath"
+pypi = "testpath"
+
+[[package]]
+description = "Summary of the package"
+conda = "testscenarios"
+pypi = "testscenarios"
+
+[[package]]
+description = "Extensions to the Python standard library unit testing framework"
+conda = "testtools"
+pypi = "testtools"
+
+[[package]]
+description = "The most basic Text Unidecode port"
+conda = "text-unidecode"
+pypi = "text-unidecode"
+
+[[package]]
+description = "thinc: Learn super-sparse multi-class models"
+conda = "thinc"
+pypi = "thinc"
+
+[[package]]
+description = "Python bindings for the Apache Thrift RPC system"
+conda = "thrift"
+pypi = "thrift"
+
+[[package]]
+description = "Python bindings for the Apache Thrift RPC system"
+conda = "thrift"
+pypi = "thrift"
+
+[[package]]
+description = "Pure python implementation of Apache Thrift."
+conda = "thriftpy"
+pypi = "thriftpy"
+
+[[package]]
+description = "Thrift SASL module that implements TSaslClientTransport"
+conda = "thrift_sasl"
+pypi = "thrift_sasl"
+
+[[package]]
+description = "Microsoft Azure Client Libraries for Python"
+conda = "azure"
+pypi = "azure"
+
+[[package]]
+description = "Microsoft Azure Client Libraries for Python"
+conda = "azure"
+pypi = "azure"
+
+[[package]]
+description = "Convex optimization package"
+conda = "cvxopt"
+pypi = "cvxopt"
+
+[[package]]
+description = "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+conda = "django"
+pypi = "Django"
+
+[[package]]
+description = "low-level drawing and interaction"
+conda = "enable"
+pypi = "enable"
+
+[[package]]
+description = "Fiona reads and writes spatial data files."
+conda = "fiona"
+pypi = "Fiona"
+
+[[package]]
+description = "Multidimensional data visualization across files"
+conda = "glueviz"
+pypi = "glueviz"
+
+[[package]]
+description = "Multi-dimensional linked data exploration"
+conda = "glueviz"
+pypi = "glueviz"
+
+[[package]]
+description = "Stop plotting your data - annotate your data and let it visualize itself."
+conda = "holoviews"
+pypi = "holoviews"
+
+[[package]]
+description = "SSH2 protocol library"
+conda = "paramiko"
+pypi = "paramiko"
+
+[[package]]
+description = "Python driver for MongoDB"
+conda = "pymongo"
+pypi = "pymongo"
+
+[[package]]
+description = "The Pyramid Web Framework, a Pylons project"
+conda = "pyramid"
+pypi = "pyramid"
+
+[[package]]
+description = "SNMP library for Python"
+conda = "pysnmp"
+pypi = "pysnmp"
+
+[[package]]
+description = "Rasterio reads and writes geospatial raster datasets."
+conda = "rasterio"
+pypi = "rasterio"
+
+[[package]]
+description = "Python package for manipulation and analysis of geometric objects in the Cartesian plane."
+conda = "shapely"
+pypi = "Shapely"
+
+[[package]]
+description = "Industrial-strength Natural Language Processing"
+conda = "spacy"
+pypi = "spacy"
+
+[[package]]
+description = "A functional standard library for Python."
+conda = "toolz"
+pypi = "toolz"
+
+[[package]]
+description = "A Python web framework and asynchronous networking library, originally developed at FriendFeed."
+conda = "tornado"
+pypi = "tornado"
+
+[[package]]
+description = "A Fast, Extensible Progress Meter"
+conda = "tqdm"
+pypi = "tqdm"
+
+[[package]]
+description = "Backports of the traceback module"
+conda = "traceback2"
+pypi = "traceback2"
+
+[[package]]
+description = "Configuration system for Python applications"
+conda = "traitlets"
+pypi = "traitlets"
+
+[[package]]
+description = "TraitsUI - Traits-capable windowing framework"
+conda = "traitsui"
+pypi = "traitsui"
+
+[[package]]
+description = "Transaction management for Python"
+conda = "transaction"
+pypi = "transaction"
+
+[[package]]
+description = "Utility library for i18n"
+conda = "translationstring"
+pypi = "translationstring"
+
+[[package]]
+description = "Port of the Tulip project (asyncio module, PEP 3156) on Python 2"
+conda = "trollius"
+pypi = "trollius"
+
+[[package]]
+description = "Collection of utilities for interacting with PyPI"
+conda = "twine"
+pypi = "twine"
+
+[[package]]
+description = "event-driven networking engine"
+conda = "twisted"
+pypi = "Twisted"
+
+[[package]]
+description = "Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs"
+conda = "twython"
+pypi = "twython"
+
+[[package]]
+description = "a fork of Python 2 and 3 ast modules with type comment support"
+conda = "typed-ast"
+pypi = "typed-ast"
+
+[[package]]
+description = "Type Hints for Python - backport for Python<3.5"
+conda = "typing"
+pypi = "typing"
+
+[[package]]
+description = "tzinfo object for the local timezone"
+conda = "tzlocal"
+pypi = "tzlocal"
+
+[[package]]
+description = "Ultra fast JSON decoder and encoder written in C with Python bindings"
+conda = "ujson"
+pypi = "ujson"
+
+[[package]]
+description = "Drop-in replacement for csv module which supports unicode strings"
+conda = "unicodecsv"
+pypi = "unicodecsv"
+
+[[package]]
+description = "ASCII transliterations of Unicode text"
+conda = "unidecode"
+pypi = "Unidecode"
+
+[[package]]
+description = "The new features in unittest backported to Python 2.4+"
+conda = "unittest2"
+pypi = "unittest2"
+
+[[package]]
+description = "HTTP library with thread-safe connection pooling, file post, and more."
+conda = "urllib3"
+pypi = "urllib3"
+
+[[package]]
+description = "Ultra fast implementation of asyncio event loop on top of libuv."
+conda = "uvloop"
+pypi = "uvloop"
+
+[[package]]
+description = "The uWSGI project aims at developing a full stack for building hosting\nservices. Application servers (for various programming languages and\nprotocols), proxies, process managers and monitors are all implemented.\n"
+conda = "uwsgi"
+pypi = "uWSGI"
+
+[[package]]
+description = "The uWSGI server"
+conda = "uwsgi"
+pypi = "uwsgi"
+
+[[package]]
+description = "Take version numbers from version control."
+conda = "vcversioner"
+pypi = "33162c0a7b28a4d8c83da07bc2b12cee58c120b4a9e8bba31c41c8d35a16"
+
+[[package]]
+description = "A library for deferring decorator actions"
+conda = "venusian"
+pypi = "venusian"
+
+[[package]]
+description = "Verbose logging level for Python's logging module."
+conda = "verboselogs"
+pypi = "verboselogs"
+
+[[package]]
+description = "Virtual Python Environment builder"
+conda = "virtualenv"
+pypi = "virtualenv"
+
+[[package]]
+description = "High performance interactive 2D/3D data visualization."
+conda = "vispy"
+pypi = "vispy"
+
+[[package]]
+description = "An object oriented approach to visualization of 1D to 4D data"
+conda = "visvis"
+pypi = "visvis"
+
+[[package]]
+description = "Library of web-related functions"
+conda = "w3lib"
+pypi = "w3lib"
+
+[[package]]
+description = "Production-quality WSGI server with very acceptable performance"
+conda = "waitress"
+pypi = "waitress"
+
+[[package]]
+description = "Measures number of Terminal column cells of wide-character codes."
+conda = "wcwidth"
+pypi = "wcwidth"
+
+[[package]]
+description = "WSGI request and response object"
+conda = "webob"
+pypi = "WebOb"
+
+[[package]]
+description = "helper to test WSGI applications"
+conda = "webtest"
+pypi = "WebTest"
+
+[[package]]
+description = "The Python WSGI Utility Library."
+conda = "werkzeug"
+pypi = "Werkzeug"
+
+[[package]]
+description = "A built-package format for Python."
+conda = "wheel"
+pypi = "wheel"
+
+[[package]]
+description = "File-based time-series database format for Graphite"
+conda = "whisper"
+pypi = "whisper"
+
+[[package]]
+description = "IPython HTML widgets for Jupyter"
+conda = "widgetsnbextension"
+pypi = "widgetsnbextension"
+
+[[package]]
+description = "Module for decorators, wrappers and monkey patching."
+conda = "wrapt"
+pypi = "wrapt"
+
+[[package]]
+description = "WebSocket client and server library for Python 2, 3, and PyPy"
+conda = "ws4py"
+pypi = "ws4py"
+
+[[package]]
+description = "A WSGI Proxy with various http client backends"
+conda = "wsgiproxy2"
+pypi = "WSGIProxy2"
+
+[[package]]
+description = "WSGI (PEP 333) Reference Library"
+conda = "wsgiref"
+pypi = "wsgiref"
+
+[[package]]
+description = "A flexible forms validation and rendering library for Python"
+conda = "wtforms"
+pypi = "WTForms"
+
+[[package]]
+description = "Cross platform GUI toolkit for Python, \"Phoenix\" version"
+conda = "wxpython"
+pypi = "wxPython"
+
+[[package]]
+description = "N-D labeled arrays and datasets in Python."
+conda = "xarray"
+pypi = "xarray"
+
+[[package]]
+description = "Library for developers to extract data from Microsoft Excel (tm) spreadsheet files"
+conda = "xlrd"
+pypi = "xlrd"
+
+[[package]]
+description = "A Python module for creating Excel XLSX files"
+conda = "xlsxwriter"
+pypi = "XlsxWriter"
+
+[[package]]
+description = "Writing data and formatting information to Excel files"
+conda = "xlwt"
+pypi = "xlwt"
+
+[[package]]
+description = "Revamped xmlrpc library for Python"
+conda = "xmlrpc2"
+pypi = "xmlrpc2"
+
+[[package]]
+description = "Yet another URL library"
+conda = "yarl"
+pypi = "yarl"
+
+[[package]]
+description = "Composable Dictionary Classes"
+conda = "zict"
+pypi = "zict"
+
+[[package]]
+description = "Backport of zipfile from Python 3.6"
+conda = "zipfile36"
+pypi = "zipfile36"
+
+[[package]]
+description = "Zope Component Architecture"
+conda = "zope.component"
+pypi = "zope.component"
+
+[[package]]
+description = "Zope Deprecation Infrastructure"
+conda = "zope.deprecation"
+pypi = "zope.deprecation"
+
+[[package]]
+description = "Very basic event publishing system"
+conda = "zope.event"
+pypi = "zope.event"
+
+[[package]]
+description = "Interfaces for Python"
+conda = "zope.interface"
+pypi = "zope.interface"
+
+[[package]]
+description = "Minimal Zope/SQLAlchemy transaction integration"
+conda = "zope.sqlalchemy"
+pypi = "zope.sqlalchemy"
+
